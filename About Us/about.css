@@ -436,7 +436,7 @@ section {
 }
 
 /* mrdia Querry */
-@media (width > 399px) {
+@media (width > 350px) {
   .nav__header {
     background-color: var(--white);
   }
