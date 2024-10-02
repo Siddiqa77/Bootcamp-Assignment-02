@@ -461,7 +461,24 @@ section {
 
 
 
+@media (width > 399px) {
+  .nav__header {
+    background-color: var(--white);
+  }
 
+  .nav__menu__btn {
+    color: var(--primary-color);
+  }
+
+  .nav__links a {
+    color: var(--white);
+    
+  }
+  .nav__links{
+    background-color: var(--primary-color);
+   
+  }
+}
 
 @media (width > 400px) {
   .nav__header{
