@@ -401,7 +401,7 @@ body.showCart .container {
     grid-template-columns: repeat(2, 1fr);
   }
 }
-@media (width > 399px) {
+@media (width > 350px) {
   .nav__header {
     background-color: var(--white);
   }
