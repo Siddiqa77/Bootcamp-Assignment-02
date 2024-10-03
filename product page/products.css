@@ -402,6 +402,17 @@ body.showCart .container {
   }
 }
 @media (width > 350px) {
+
+  .title{
+    font-size: medium;
+    margin-top: 80px;
+  }
+  .icon-cart span{
+    margin-top: 10px;
+  }
+  .icon-cart {
+    margin-top: 80px;
+  }
   .nav__header {
     background-color: var(--white);
   }
