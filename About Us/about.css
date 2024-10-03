@@ -436,6 +436,7 @@ section {
 }
 
 /* mrdia Querry */
+
 @media (width > 350px) {
   .nav__header {
     background-color: var(--white);
@@ -453,6 +454,15 @@ section {
     background-color: var(--primary-color);
    
   }
+  .sec-title h2{
+    font-size: 35px;
+    margin-top: 40px;
+  }
+  .btn-style-one{
+padding: 2px 5px;
+
+  }
+  
 }
 @media (width > 400px) {
   .nav__header {
